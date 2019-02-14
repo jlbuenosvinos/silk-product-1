@@ -4,5 +4,5 @@
  
   tasks:
  
-  - name: Hello World!
+  - name: Hello World product-1!
     shell: echo "Hi! Tower is working."
